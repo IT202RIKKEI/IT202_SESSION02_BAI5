@@ -1,3 +1,7 @@
+
+CREATE DATABASE session02;
+USE session02;
+
 -- 1. Tạo bảng Ví tiền (WALLETS)
 CREATE TABLE WALLETS (
     WalletID INT PRIMARY KEY,               -- [PRIMARY KEY]: Định danh ví
